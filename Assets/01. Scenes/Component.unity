@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 502b1a1f0cea74f44ae3af7dec46e937, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obj: {fileID: 2051032714}
+  obj: {fileID: 0}
   changeName: Hello World
 --- !u!4 &1731054151
 Transform:
