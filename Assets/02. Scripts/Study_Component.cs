@@ -38,7 +38,8 @@ public class Study_Component : MonoBehaviour
 
         //obj.name = changeName;
 
-        CreateCube();
+        objCube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        //CreateCube();
     }
 
     private void CreateCube()
