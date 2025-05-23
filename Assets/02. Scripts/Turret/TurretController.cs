@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Study_LookAt : MonoBehaviour
+public class TurretController : MonoBehaviour
 {
     public Transform targetTf;
     public Transform turretHead;
